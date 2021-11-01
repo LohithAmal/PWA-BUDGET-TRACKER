@@ -1,6 +1,6 @@
 # Budget Tracker Starter Code
 ## Description
-This is a Budjet Tracker application that have offline access using PWA.
+This is a Budget Tracker application that have offline access using PWA.
 
 ## Table Of Content
 * [Overview](#overview)
